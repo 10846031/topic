@@ -50,3 +50,7 @@ urlpatterns += [
 urlpatterns += [
     path('accounts/', include('django.contrib.auth.urls')),
 ]
+
+#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
+
+# vfkdfmkdddnvdvfvfvvrbrb
